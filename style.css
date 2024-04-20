@@ -1,0 +1,26 @@
+body{
+    background-color: bisque;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+.box{
+    padding-left:5px;
+    border: 1px solid brown;
+    background-color: rgb(189, 149, 47);
+    border-radius: 10px;
+    max-width: 200px;
+    height: 200px;
+    overflow: auto;
+
+}
+button{
+    background-color: blueviolet;
+    border: none;
+    border-radius: 5px;
+    color: antiquewhite;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
